@@ -168,15 +168,6 @@ genai-learning-journey/
 ├── requirements.txt
 └── .gitignore
 ```
----
-
-# Current Goals
-
-- Learn the complete GenAI application pipeline
-- Build end-to-end RAG systems
-- Develop AI-powered backend applications
-- Learn deployment and production workflows
-- Create real-world GenAI projects
 
 ---
 
