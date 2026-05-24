@@ -132,11 +132,19 @@ Started: May 2026 🚀
 COMPLETED
 
 - Python Fundamentals
-
-
+- Machine Learning For NLP
+    Text Preprocessing
+      Tokenization
+      Stemming
+      Leammatization
+      Stop Words
+      POS Tags
+      Named Entity Recognition
+    Feature Extraction
+      One Hot Encoding
+      Bag of Words
 
 
 CURRENTLY LEARNING
 
 - Machine Learning for NLP
-    - Word2Vec
