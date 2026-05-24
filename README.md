@@ -65,6 +65,7 @@ This repository documents my journey into **Applied AI** and **Generative AI Eng
 - [ ] RAG Pipelines
 - [ ] AI Agents
 - [ ] FastAPI
+- [ ] Docker
 - [ ] Deployment
 - [ ] Production LLM Systems
 
@@ -181,7 +182,7 @@ COMPLETED
 - Machine Learning For NLP
   - Text Preprocessing --> Tokenization, Stemming, Leammatization, Stop Words, POS Tags, Named Entity Recognition
   - Feature Extraction --> One Hot Encoding, Bag of Words
-
+- FastAPI
 
 CURRENTLY LEARNING
 
