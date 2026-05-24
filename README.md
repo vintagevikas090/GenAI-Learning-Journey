@@ -186,3 +186,4 @@ COMPLETED
 CURRENTLY LEARNING
 
 - Machine Learning for NLP
+  - Word Embedding
