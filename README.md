@@ -13,10 +13,9 @@ Building production-ready AI applications and learning modern GenAI systems.
   <img src="https://img.shields.io/badge/Domain-LLM_Engineering-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge">
 </p>
----
+
 
 # 📌 About
-
 This repository documents my journey into **Applied AI** and **Generative AI Engineering** through hands-on implementations, mini-projects, and production-focused learning.
 
 ### 🎯 Goals
