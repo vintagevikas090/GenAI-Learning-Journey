@@ -128,3 +128,13 @@ genai-learning-journey/
 # Status
 
 Started: May 2026 🚀
+
+COMPLETED
+
+- Python Fundamentals
+
+
+CURRENTLY LEARNING
+
+- Machine Learning for NLP
+    - Word2Vec
