@@ -18,8 +18,6 @@ Applied AI • Generative AI • LLM Engineering • RAG • AI Agents
 
 This repository documents my journey into **Applied AI** and **Generative AI Engineering** through hands-on implementations, mini-projects, and production-focused learning.
 
-I am currently following **Krish Naik's Complete Generative AI Course** while building practical AI applications and learning modern GenAI system design.
-
 ### 🎯 Goals
 - Build strong GenAI fundamentals
 - Develop practical AI applications
