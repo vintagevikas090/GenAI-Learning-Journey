@@ -1,17 +1,18 @@
 <h1 align="center">🚀 GenAI Learning Journey</h1>
 
 <p align="center">
-Applied AI • Generative AI • LLM Engineering • RAG • AI Agents
+Applied AI • Generative AI • LLM Engineering
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Generative_AI-LLMs-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LangChain-Agentic_AI-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/FastAPI-Backend_API-009688?style=for-the-badge&logo=fastapi">
-  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge">
+Building production-ready AI applications and learning modern GenAI systems.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Generative_AI-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Domain-LLM_Engineering-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge">
+</p>
 ---
 
 # 📌 About
