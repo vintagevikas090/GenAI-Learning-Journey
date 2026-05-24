@@ -9,7 +9,7 @@ Building production-ready AI applications and learning modern GenAI systems.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Generative_AI-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Generative_AI-6A0DAD?style=for-the-badge">
   <img src="https://img.shields.io/badge/Domain-LLM_Engineering-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge">
 </p>
