@@ -1,21 +1,24 @@
-# GenAI Learning Journey
+<h1 align="center">🚀 GenAI Learning Journey</h1>
 
-## About
-This repository documents my journey into Applied AI and Generative AI engineering.
+<p align="center">
+Applied AI • Generative AI • LLM Engineering
+</p>
 
-I am currently following Krish Naik's Complete Generative AI Course and building hands-on projects while learning:
-- Machine Learning for NLP
-- Deep Learning for NLP
-- Transformers
-- Large Language Models (LLMs)
-- Hugging Face
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- FastAPI
-- Deployment
+<p align="center">
+Building production-ready AI applications and learning modern GenAI systems.
+</p>
 
-The goal of this repository is to:
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Generative_AI-6A0DAD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Domain-LLM_Engineering-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge">
+</p>
+
+
+# 📌 About
+This repository documents my journey into **Applied AI** and **Generative AI Engineering** through hands-on implementations, mini-projects, and production-focused learning.
+
+### 🎯 Goals
 - Build strong GenAI fundamentals
 - Develop practical AI applications
 - Learn AI system design
@@ -23,24 +26,58 @@ The goal of this repository is to:
 
 ---
 
-# Tech Stack
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow / PyTorch
-- Hugging Face
-- LangChain
-- FastAPI
-- Streamlit
-- Vector Databases
-- Git & GitHub
+# 🛠️ Tech Stack
+
+### Languages & Core Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+
+### Deep Learning & GenAI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat)
+
+### Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+### Databases & Infrastructure
+![Vector DB](https://img.shields.io/badge/Vector_Database-4B0082?style=flat)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-black?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-blue?style=flat)
 
 ---
 
-# Course Topics Covered
+# 🗺️ Learning Roadmap
 
-## NLP & Deep Learning
+- [x] Python Fundamentals
+- [x] NLP Text Preprocessing
+- [x] Feature Extraction
+- [ ] Deep Learning for NLP
+- [ ] Transformers
+- [ ] Hugging Face
+- [ ] LangChain
+- [ ] RAG Pipelines
+- [ ] AI Agents
+- [ ] FastAPI
+- [ ] Docker
+- [ ] Deployment
+- [ ] Production LLM Systems
+
+---
+
+# 📚 Course Topics Covered
+
+<details>
+<summary><b>🧠 NLP & Deep Learning</b></summary>
+
+<br>
+
 - NLP Basics
 - Machine Learning for NLP
 - Deep Learning for NLP
@@ -52,9 +89,15 @@ The goal of this repository is to:
 - Seq2Seq Architecture
 - Attention Mechanism
 
+</details>
+
 ---
 
-## Transformers & LLMs
+<details>
+<summary><b>🤖 Transformers & LLMs</b></summary>
+
+<br>
+
 - Transformers
 - Generative AI Fundamentals
 - Large Language Models (LLMs)
@@ -62,9 +105,15 @@ The goal of this repository is to:
 - OpenAI APIs
 - Ollama
 
+</details>
+
 ---
 
-## LangChain & GenAI Applications
+<details>
+<summary><b>🔗 LangChain & GenAI Applications</b></summary>
+
+<br>
+
 - LangChain Basics
 - LCEL
 - Chatbots
@@ -77,9 +126,15 @@ The goal of this repository is to:
 - YouTube & Website Summarization
 - Code Assistants
 
+</details>
+
 ---
 
-## Advanced GenAI Topics
+<details>
+<summary><b>⚡ Advanced GenAI Topics</b></summary>
+
+<br>
+
 - Hybrid Search RAG
 - Graph Databases
 - LangGraph
@@ -90,9 +145,11 @@ The goal of this repository is to:
 - Nvidia NIM
 - Deployment using Streamlit & Hugging Face
 
+</details>
+
 ---
 
-# Repository Structure
+# 📂 Repository Structure
 
 ```bash
 genai-learning-journey/
@@ -115,16 +172,6 @@ genai-learning-journey/
 
 ---
 
-# Current Goals
-
-- Learn the complete GenAI application pipeline
-- Build end-to-end RAG systems
-- Develop AI-powered backend applications
-- Learn deployment and production workflows
-- Create real-world GenAI projects
-
----
-
 # Status
 
 Started: May 2026 🚀
@@ -132,11 +179,13 @@ Started: May 2026 🚀
 COMPLETED
 
 - Python Fundamentals
-
-
+- Machine Learning For NLP
+  - Text Preprocessing --> Tokenization, Stemming, Leammatization, Stop Words, POS Tags, Named Entity Recognition
+  - Feature Extraction --> One Hot Encoding, Bag of Words
 
 
 CURRENTLY LEARNING
 
 - Machine Learning for NLP
-    - Word2Vec
+  - Word Embedding
+- FastAPI
