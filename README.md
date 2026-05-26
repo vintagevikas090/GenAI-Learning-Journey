@@ -181,11 +181,11 @@ COMPLETED
 - Python Fundamentals
 - Machine Learning For NLP
   - Text Preprocessing --> Tokenization, Stemming, Leammatization, Stop Words, POS Tags, Named Entity Recognition
-  - Feature Extraction --> One Hot Encoding, Bag of Words
+  - Feature Extraction --> One Hot Encoding, Bag of Words, TF-IDF, Word2Vec
+- Deep Learning For NLP
 
 
 CURRENTLY LEARNING
 
-- Machine Learning for NLP
-  - Word Embedding
+- Deep Learning for NLP
 - FastAPI
