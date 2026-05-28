@@ -179,7 +179,6 @@ Started: May 2026 🚀
 COMPLETED
 
 - Python Fundamentals
-- FastAPI
 - Machine Learning For NLP
   - Text Preprocessing --> Tokenization, Stemming, Leammatization, Stop Words, POS Tags, Named Entity Recognition
   - Feature Extraction --> One Hot Encoding, Bag of Words, TF-IDF, Word2Vec
@@ -188,4 +187,4 @@ COMPLETED
 CURRENTLY LEARNING
 
 - Deep Learning for NLP
-
+- FastAPI
