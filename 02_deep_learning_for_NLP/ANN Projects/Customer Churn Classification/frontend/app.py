@@ -2,12 +2,13 @@ from tensorflow.keras.models import load_model
 import pickle
 import pandas as pd
 import streamlit as st
-import os, time
+import os
 
 st.set_page_config(page_title="Customer Churn Prediction", page_icon="📊", layout="centered")
 
 # LOAD MODELS AND ENCODERS
-model_folder_path = r'D:\AI\genai-learning-journey\02_deep_learning_for_NLP\ANN Projects\Customer Churn Classification\models'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+model_folder_path = os.path.join(BASE_DIR, "models")
 
 @st.cache_resource
 def load_models_and_encoders(model_folder_path):
@@ -26,7 +27,6 @@ def load_models_and_encoders(model_folder_path):
 
 with st.spinner(text = 'Loading Models'):
     model, label_encoder_geo, label_encoder_gender, scaler = load_models_and_encoders(model_folder_path)
-    st.success('Models Loaded Successfully')
 
 
 # MAIN UI
@@ -40,14 +40,14 @@ with st.form("input_data", clear_on_submit=True):
     geography = st.selectbox("Geography", label_encoder_geo.categories_[0])
     gender = st.selectbox("Gender", label_encoder_gender.classes_)
 
-    age = st.slider("Age", 18, 100, 25)
+    age = st.slider("Age", min_value = 18, max_value = 100, value = 25)
 
     credit_score = st.number_input("Credit Score", min_value=100, max_value=900, value=650, step = 10)
     balance = st.number_input("Balance", min_value=0.0, value=0.0, step=100.0)
     estimated_salary = st.number_input("Estimated Salary", min_value=0.0, value=10000.0, step=1000.0)
 
-    tenure = st.slider("Tenure", 0, 10, 3)
-    num_of_products = st.slider("Number of Products", 1, 4, 1)
+    tenure = st.slider("Tenure", min_value = 0, max_value = 10, value = 3)
+    num_of_products = st.slider("Number of Products", min_value = 1, max_value = 4, value = 1)
 
     has_cr_card = st.selectbox("Has Credit Card", ["No", "Yes"])
     is_active_member = st.selectbox("Is Active Member", ["No", "Yes"])
@@ -57,8 +57,7 @@ with st.form("input_data", clear_on_submit=True):
 
 # PREDICTION
 if submit:
-    with st.spinner(text = 'Wait for some time'):
-        time.sleep(5)
+    with st.spinner(text = 'Wait For Some Time'):
         input_data = {
             "CreditScore": credit_score,
             "Gender": label_encoder_gender.transform([gender])[0],
