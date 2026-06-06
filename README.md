@@ -56,18 +56,17 @@ This repository documents my journey into **Applied AI** and **Generative AI Eng
 # 🗺️ Learning Roadmap
 
 - [x] Python Fundamentals
-- [x] NLP Text Preprocessing
+- [x] FastAPI
+- [x] Text Preprocessing
 - [x] Feature Extraction
-- [ ] Deep Learning for NLP
-- [ ] Transformers
-- [ ] Hugging Face
+- [x] Deep Learning for NLP
+- [ ] Transformer
 - [ ] LangChain
+- [ ] Hugging Face
 - [ ] RAG Pipelines
 - [ ] AI Agents
-- [x] FastAPI
-- [ ] Docker
+- [x] Docker
 - [ ] Deployment
-- [ ] Production LLM Systems
 
 ---
 
@@ -156,15 +155,6 @@ genai-learning-journey/
 │
 ├── 01_machine_learning_for_nlp/
 ├── 02_deep_learning_for_nlp/
-├── 03_transformers/
-├── 04_huggingface/
-├── 05_langchain/
-├── 06_rag/
-├── 07_ai_agents/
-├── 08_fastapi/
-├── 09_deployment/
-├── 10_projects/
-│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -180,11 +170,15 @@ COMPLETED
 
 - Python Fundamentals
 - FastAPI
+- Docker
 - Machine Learning For NLP
   - Text Preprocessing --> Tokenization, Stemming, Leammatization, Stop Words, POS Tags, Named Entity Recognition
   - Feature Extraction --> One Hot Encoding, Bag of Words, TF-IDF, Word2Vec
-
+- Deep Learning for NLP
+  - Simple RNN, LSTM, GRU
+  - Encoder-Decoder, Attention Mechanism
 
 CURRENTLY LEARNING
 
 - Deep Learning for NLP
+  - Transformer
