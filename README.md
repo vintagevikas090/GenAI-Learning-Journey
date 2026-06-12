@@ -165,7 +165,6 @@ genai-learning-journey/
 Started: May 2026 🚀
 
 COMPLETED
-
 - Python Fundamentals
 - FastAPI
 - Docker
@@ -176,6 +175,7 @@ COMPLETED
   - Simple RNN, LSTM, GRU
   - Encoder-Decoder, Attention Mechanism
   - Transformer
-CURRENTLY LEARNING
 
+
+CURRENTLY LEARNING
 - Langchain
