@@ -60,11 +60,9 @@ This repository documents my journey into **Applied AI** and **Generative AI Eng
 - [x] Text Preprocessing
 - [x] Feature Extraction
 - [x] Deep Learning for NLP
-- [ ] Transformer
+- [x] Transformer
 - [ ] LangChain
 - [ ] Hugging Face
-- [ ] RAG Pipelines
-- [ ] AI Agents
 - [x] Docker
 - [ ] Deployment
 
@@ -141,7 +139,6 @@ This repository documents my journey into **Applied AI** and **Generative AI Eng
 - CrewAI
 - Fine-Tuning LLMs
 - MCP
-- Nvidia NIM
 - Deployment using Streamlit & Hugging Face
 
 </details>
@@ -155,6 +152,7 @@ genai-learning-journey/
 │
 ├── 01_machine_learning_for_nlp/
 ├── 02_deep_learning_for_nlp/
+├── 03_langchain/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -178,7 +176,6 @@ COMPLETED
   - Simple RNN, LSTM, GRU
   - Encoder-Decoder, Attention Mechanism
   - Transformer
-
 CURRENTLY LEARNING
 
 - Langchain
