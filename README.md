@@ -177,8 +177,8 @@ COMPLETED
 - Deep Learning for NLP
   - Simple RNN, LSTM, GRU
   - Encoder-Decoder, Attention Mechanism
+  - Transformer
 
 CURRENTLY LEARNING
 
-- Deep Learning for NLP
-  - Transformer
+- Langchain
