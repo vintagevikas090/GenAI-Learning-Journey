@@ -57,13 +57,13 @@ This repository documents my journey into **Applied AI** and **Generative AI Eng
 
 - [x] Python Fundamentals
 - [x] FastAPI
+- [x] Docker
 - [x] Text Preprocessing
 - [x] Feature Extraction
 - [x] Deep Learning for NLP
 - [x] Transformer
 - [ ] LangChain
 - [ ] Hugging Face
-- [x] Docker
 - [ ] Deployment
 
 ---
@@ -147,16 +147,19 @@ This repository documents my journey into **Applied AI** and **Generative AI Eng
 
 # 📂 Repository Structure
 
+
 ```bash
 genai-learning-journey/
 │
-├── 01_machine_learning_for_nlp/
-├── 02_deep_learning_for_nlp/
-├── 03_langchain/
+├── 01_text_preprocessing/
+├── 02_feature_extraction/
+├── 03_ann_projects/
+├── 04_sentiment_analysis_simple_rnn/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 ```
+
 
 ---
 
