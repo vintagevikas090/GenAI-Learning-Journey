@@ -62,8 +62,9 @@ This repository documents my journey into **Applied AI** and **Generative AI Eng
 - [x] Feature Extraction
 - [x] Deep Learning for NLP
 - [x] Transformer
-- [ ] LangChain
-- [ ] Hugging Face
+- [x] LangChain
+- [x] Hugging Face
+- [ ] LangGraph
 - [ ] Deployment
 
 ---
@@ -155,6 +156,7 @@ genai-learning-journey/
 ├── 02_feature_extraction/
 ├── 03_ann_projects/
 ├── 04_sentiment_analysis_simple_rnn/
+├── 05_langchain/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -178,7 +180,13 @@ COMPLETED
   - Simple RNN, LSTM, GRU
   - Encoder-Decoder, Attention Mechanism
   - Transformer
+- Langchain
+  - Data Ingestion, Chunking, Embedding, Vector Stores
+  - Message History, Agents, Tools, Hybrid Search
+  - Conversatational RAGs, Text Summerization
+- LangSmith Basics
+- HuggingFace 
 
 
 CURRENTLY LEARNING
-- Langchain
+- LangGraph
