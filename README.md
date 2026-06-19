@@ -180,7 +180,7 @@ COMPLETED
   - Simple RNN, LSTM, GRU
   - Encoder-Decoder, Attention Mechanism
   - Transformer
-- Langchain
+- LangChain
   - Data Ingestion, Chunking, Embedding, Vector Stores
   - Message History, Agents, Tools, Hybrid Search
   - Conversatational RAGs, Text Summerization
