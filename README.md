@@ -155,7 +155,7 @@ genai-learning-journey/
 ├── 01_text_preprocessing/
 ├── 02_feature_extraction/
 ├── 03_ann_projects/
-├── 04_sentiment_analysis_simple_rnn/
+├── 04_rnn_projects/
 ├── 05_langchain/
 ├── README.md
 ├── requirements.txt
