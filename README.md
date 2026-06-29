@@ -157,6 +157,7 @@ genai-learning-journey/
 ├── 03_ann_projects/
 ├── 04_rnn_projects/
 ├── 05_langchain/
+├── 06_langGraph/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
