@@ -216,11 +216,10 @@ agentic-ai-learning-journey/
 │
 ├── 01_text_preprocessing/
 ├── 02_feature_extraction/
-├── 03_ann_projects/
-├── 04_rnn_projects/
-├── 05_langchain/
-├── 06_langGraph/
-├── 07_mcp/
+├── 03_neural_network_projects/
+├── 04_langchain/
+├── 05_langGraph/
+├── 06_mcp/
 │
 ├── README.md
 ├── requirements.txt
