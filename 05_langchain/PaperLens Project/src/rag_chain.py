@@ -8,12 +8,7 @@ def create_rag_chain(vector_store):
 
     llm = OllamaLLM(model="gemma:2b")
 
-    retriever = vector_store.as_retriever(search_type="mmr",
-        search_kwargs={
-            "k": 3,
-            "fetch_k": 10
-        }
-    )
+    retriever = vector_store.as_retriever(search_type="mmr", search_kwargs ={"fetch_k": 10})
 
     prompt = ChatPromptTemplate.from_template(
                 """
