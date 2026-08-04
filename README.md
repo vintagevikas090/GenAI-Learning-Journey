@@ -220,6 +220,7 @@ agentic-ai-learning-journey/
 ├── 04_langchain/
 ├── 05_langGraph/
 ├── 06_mcp/
+├── 07_deep_agents/
 │
 ├── README.md
 ├── requirements.txt
