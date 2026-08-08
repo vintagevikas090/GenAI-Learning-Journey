@@ -221,6 +221,7 @@ agentic-ai-learning-journey/
 ├── 05_langGraph/
 ├── 06_mcp/
 ├── 07_deep_agents/
+├── 08_rag_variations/
 │
 ├── README.md
 ├── requirements.txt
